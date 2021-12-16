@@ -16,7 +16,7 @@
 - Looping, For, While, Nested loops, Control Statements
 - Break, Continue, Pass
 
--String Manipulation
+- String Manipulation
 - Accessing Strings, Basic Operations, String slices, Function and Methods.
 - Lists
 - Introduction, accessing list, Operations, Working with lists, Function and Methods
