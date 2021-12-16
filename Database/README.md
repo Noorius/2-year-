@@ -5,13 +5,13 @@
 
 ### Introduction to Databases
 
-  > - Database-System Applications
-  > - Purpose of Database Systems
-  > - View of Data
-  > - Database Languages
-  > - Database Design
-  > - Database Engine
-  > - Toolkit
+  - Database-System Applications
+  - Purpose of Database Systems
+  - View of Data
+  - Database Languages
+  - Database Design
+  - Database Engine
+  - Toolkit
 
 ### Introduction to Relational Model
 
