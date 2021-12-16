@@ -3,17 +3,17 @@
 ## SYLLABUS
 
 
-### - Introduction to Databases
+### Introduction to Databases
 
-  - Database-System Applications
-  - Purpose of Database Systems
+  > - Database-System Applications
+  > - Purpose of Database Systems
   - View of Data
   - Database Languages
   - Database Design
   - Database Engine
   - Toolkit
 
-### - Introduction to Relational Model
+### Introduction to Relational Model
 
   - Structure of Relational Databases
   - Database Schema
@@ -22,7 +22,7 @@
   - Relational Query Languages
   - The Relational Algebra
 
-### - Introduction to SQL
+### Introduction to SQL
 
   - Overview of  the SQL
   - SQL Data definition
@@ -34,7 +34,7 @@
   - Nested subqueries
   - Modification of the Database
 
-### - Database Design Using E-R Model
+### Database Design Using E-R Model
 
   - Overview of the Design Process
   - The Entity-Relationship Model
@@ -48,7 +48,7 @@
   - Alternative Notations for Modeling Data
   - Other Aspects of Database Design
 
-### - Relational Database Design
+### Relational Database Design
 
   - Features of Good Relational Designs
   - Decomposition Using Functional Dependencies
@@ -60,7 +60,7 @@
   - Database-Design Process
   - Modeling Temporal Data
 
-### - Intermediate SQL
+### Intermediate SQL
 
   - Join Expressions
   - Views
@@ -70,14 +70,14 @@
   - Index Definition in SQL
   - Authorization
 
-### - Advanced SQL
+### Advanced SQL
 
   - Functions and Procedures
   - Triggers
   - Recursive Queries
   - Advanced Aggregation Features
 
-### - Complex Data Types
+### Complex Data Types
 
   - Semi-structured Data
   - Object orientation
