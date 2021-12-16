@@ -8,10 +8,10 @@
 
 ### Basic Data Structures.
 - Stack
-- - Queue
-- - Deque
-- - Linked lists
-- - Doubly-Linked lists
+- Queue
+- Deque
+- Linked lists
+- Doubly-Linked lists
 
 ### Sorting and Searching.
 - Linear
