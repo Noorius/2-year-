@@ -1,3 +1,4 @@
+# Information communication technology
 
 - Introduction to computer. Hardware
 - Introduction to computer. Software
@@ -20,8 +21,8 @@
 - Lists
 - Introduction, accessing list, Operations, Working with lists, Function and Methods
 - Tuple
-Introduction, Accessing tuples, Operations, Working, Functions and Methods
+- Introduction, Accessing tuples, Operations, Working, Functions and Methods
 - Dictionaries
-Introduction, accessing values in dictionaries, Working with dictionaries, Properties, Functions
+- Introduction, accessing values in dictionaries, Working with dictionaries, Properties, Functions
 - Functions
-> Defining a function, Calling a function, Types of functions, Function Arguments, Anonymous functions, Global and local variables
+- Defining a function, Calling a function, Types of functions, Function Arguments, Anonymous functions, Global and local variables
