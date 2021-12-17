@@ -4,7 +4,7 @@
 ### Tasks:
 
 1. E-R Model:
-	- [x] [Contribution guidelines for this project](./E-R Project(updated).jpg)
+	- [x] [Contribution guidelines for this project](Project%20%5BFull%5D/E-R Project(updated).jpg)
 
 2. Relational Model:
 	- [x] Relational Model.png
