@@ -2,8 +2,8 @@
 
 ## SYLLABUS
 
-> Course Goals:
-During the course student will obtain the knowledge of fundamental principles of ObjectOriented programming. In particular, he/she will become familiar with the concepts of classes, 
+#### Course Goals:
+>During the course student will obtain the knowledge of fundamental principles of Object-Oriented programming. In particular, he/she will become familiar with the concepts of classes, 
 objects, interfaces, inheritance, nested and abstract classes, polymorphism and data 
 encapsulation. Moreover, by the end of the course he/she will master basic Java constructs – java 
 collections (sets, lists, maps), exceptions, input / output, etc. The main goal to be achieved 
