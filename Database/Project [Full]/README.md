@@ -3,11 +3,11 @@
 
 ### Tasks:
 
-1. [x] E-R Model:
+1. - [x] E-R Model:
 ![This is an image](https://github.com/Noorius/2year/blob/main/Database/Project%20%5BFull%5D/E-R%20Project(updated).jpg)
 
-2. Relational Model:
-	- [x] Relational Model.png
+2. - [x] Relational Model:
+![This is an image](https://github.com/Noorius/2year/blob/main/Database/Project%20%5BFull%5D/Relational%20Model.png)
 
 3. Create the relations in PostgreSQL database and Populate Relations:
 	- [x] tables.sql
