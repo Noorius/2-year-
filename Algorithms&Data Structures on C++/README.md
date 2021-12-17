@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-## COURSE
+## Course
 
 ### Course introduction and review.
 - Complexity
