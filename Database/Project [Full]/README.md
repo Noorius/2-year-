@@ -4,10 +4,10 @@
 ### Tasks:
 
 1. E-R Model:
-	- [x] #739 E-R Project(updated).jpg
+	- [x] E-R Project(updated).jpg
 
 2. Relational Model:
-	- [x] Relational Model.png
+	- [ ] Relational Model.png
 
 3. Create the relations in PostgreSQL database and Populate Relations:
 	- [x] tables.sql
