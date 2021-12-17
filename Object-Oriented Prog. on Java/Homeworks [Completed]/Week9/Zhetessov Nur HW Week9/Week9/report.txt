@@ -1,4 +1,0 @@
-[Tue Nov 09 16:10:00 ALMT 2021]:  java.lang.Exception: Wrong IIN formate
-[Tue Nov 09 16:10:00 ALMT 2021]:  java.lang.Exception: Wrong phone number formate
-[Tue Nov 09 16:10:22 ALMT 2021]:  java.lang.Exception: Wrong IIN formate
-[Tue Nov 09 16:10:22 ALMT 2021]:  java.lang.Exception: Wrong phone number formate
