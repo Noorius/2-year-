@@ -1,7 +1,7 @@
-# Project: Automobile company
-## Course: Databases
+# Project
+## Automobile company
 
-### Tasks:
+### Tasks
 
 - [x] E-R Model:
 ![This is an image](https://github.com/Noorius/2year/blob/main/Database/Project%20%5BFull%5D/E-R%20Project(updated).jpg)
