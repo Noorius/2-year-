@@ -1,7 +1,7 @@
-Project: Automobile company
-Course: Databases
+# Project: Automobile company
+## Course: Databases
 
-Tasks:
+### Tasks:
 
 1. E-R Model:
 	- E-R Project(updated).jpg
