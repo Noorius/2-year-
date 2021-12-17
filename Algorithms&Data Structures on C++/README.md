@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-## SYLLABUS
+## COURSE
 
 ### Course introduction and review.
 - Complexity
