@@ -1,5 +1,6 @@
 # Information communication technology
-
+## Lectures
+### Topics
 - Introduction to computer. Hardware
 - Introduction to computer. Software
 - Microsoft office: MS Word, MS Excell
