@@ -3,8 +3,8 @@
 
 ### Tasks:
 
-1. E-R Model:
-	- [x] [Contribution guidelines for this project](Project%20%5BFull%5D/E-R Project(updated).jpg)
+1. [x] E-R Model:
+	![This is an image](Project%20%5BFull%5D/E-R Project(updated).jpg)
 
 2. Relational Model:
 	- [x] Relational Model.png
