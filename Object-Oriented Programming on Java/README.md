@@ -1,6 +1,6 @@
 # CSE212 Object-Oriented programming and Design
 
-## Topics
+## Course
 
 #### Course Goals:
 >During the course student will obtain the knowledge of fundamental principles of Object-Oriented programming. In particular, he/she will become familiar with the concepts of classes, 
