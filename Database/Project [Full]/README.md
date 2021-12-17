@@ -17,5 +17,5 @@
 
 :tada:
 
-Student Zhetessov Nur M.
-KBTU, 2021
+*Student Zhetessov Nur M.*
+*KBTU, 2021*
