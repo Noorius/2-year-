@@ -3,7 +3,7 @@
 
 ### Tasks:
 
-1. - [x] E-R Model:
+- [x] 1. E-R Model:
 ![This is an image](https://github.com/Noorius/2year/blob/main/Database/Project%20%5BFull%5D/E-R%20Project(updated).jpg)
 
 2. - [x] Relational Model:
