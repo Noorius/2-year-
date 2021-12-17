@@ -4,7 +4,7 @@
 ### Tasks:
 
 1. [x] E-R Model:
-![This is an image](Project%20%5BFull%5D/E-R Project(updated).jpg)
+![This is an image](E-R Project(updated).jpg)
 
 2. Relational Model:
 	- [x] Relational Model.png
