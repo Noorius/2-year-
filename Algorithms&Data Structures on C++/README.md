@@ -2,7 +2,7 @@
 
 ## Course
 
-### Course introduction and review.
+### Introduction and review.
 - Complexity
 - Memory
 
