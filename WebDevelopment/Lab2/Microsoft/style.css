@@ -1,0 +1,243 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 0 5%;
+}
+
+#header{
+    display: flex;
+    width: auto;
+    height: fit-content;
+
+    color: #262626;
+    font-size: 13px;
+    font-family: "Segoe UI";
+
+    align-items: center;
+}
+
+#header div{
+    display: inline-flex;
+
+}
+/****************LOGO***************/
+#logotip{
+    height: fit-content;
+}
+
+#logotip img{
+    width: 108px;
+    padding: 16px 6px 20px 10px;
+}
+/****************List in Header***************/
+#list_v_header{
+    padding-left: 23px;
+}
+#list_v_header ul{
+    list-style-type: none;
+    margin-left: 2px;
+
+}
+#list_v_header li{
+    display: inline-block;
+
+    margin-right: 17px;
+}
+
+
+/********** Micro Products Search Sign In *******/
+#knopki{
+    height: inherit;
+}
+
+#knopki button{
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    background-color: inherit;
+    border: 0;
+
+    margin-right: 40px;
+}
+
+#knopki button:after{
+    content: " 🔎";
+    font-size: 15px;
+
+}
+
+#knopki select{
+    font-size: inherit;
+    font-family: inherit;
+    background-color: inherit;
+    border: 0;
+    margin-right: 30px;
+}
+
+#knopki select:hover{
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    padding-bottom: 0;
+    cursor: pointer;
+}
+
+#knopki button:hover{
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    padding-bottom: 0;
+    cursor: pointer;
+}
+
+#vhod{
+    cursor: pointer;
+    height: fit-content;
+    align-items: center;
+}
+#vhod p{
+    margin-right: 10px;
+}
+/********************MAIN***********************/
+
+#main{
+    width: 100%;
+    height: 500px;
+    background: gray;
+
+    font-family: "Segoe UI";
+
+    position: relative;
+    align-items: center;
+}
+
+#main img{
+    width: inherit;
+}
+
+#text_in_main{
+    position: absolute;
+    width: 500px;
+
+    top:31%;
+    left:0;
+    margin-left: 6%;
+
+    color: white;
+
+
+}
+
+#text_in_main h1{
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+}
+
+#text_in_main p{
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+
+    width: 510px;
+
+    margin-bottom: 20px;
+}
+
+#text_in_main a{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+
+#button_block_in_main{
+    background-color: white;
+    width: fit-content;
+    font-size: 15px;
+    padding: 8px 20px;
+
+    border: 2px solid transparent;
+    outline: 1px solid transparent;
+}
+
+#button_block_in_main:hover{
+    background-color: lightgrey;
+}
+
+
+
+/*********************************   PRODUCTS  ***********************************************/
+
+#products{
+    display: inline-flex;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+#products div img:hover{
+    filter: opacity(90%);
+}
+
+.one_product{
+    width: inherit;
+    font-family: "Segoe UI";
+    margin-right: 25px;
+}
+
+.one_product img{
+    width: 323px;
+}
+
+.one_product h2{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin-top: 37px;
+}
+
+.one_product p{
+    font-size: 15px;
+    width: 310px;
+    margin-bottom: 10px;
+}
+
+.smaller_links{
+    font-size: 15px;
+    color: #1c78d4;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+/********* ADDS ARROW AND UNDERLINE *********/
+.add_arrow:after{
+    content: ">";
+    font-size: 15px;
+}
+
+.underline_link:hover{
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+
+}
+/*****************************************/
+.clickable_product{
+    display: block;
+    width: inherit;
+
+}
+
+.simple_links {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
