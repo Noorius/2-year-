@@ -12,23 +12,21 @@ export class AmazonService {
   ) { }
 
   getItems(){
-    let t = this.http.get<{
-      id: number,
-      url: string,
-      name: string,
-      price: number,
-      description: string,
-      image1: string,
-      image2: string,
-      image3: string,
-      rating: number,
+    return this.http.get<{
+      id: number;
+      url: string;
+      name: string;
+      price: number;
+      description: string;
+      image1: string;
+      image2: string;
+      image3: string;
+      rating: number;
       category: string}[]>
     ('/assets/products.json');
-    return t;
   }
-
-  getProducts(){
+  /*getProducts(){
     return this.http.get<Product[]>
     ('/assets/products.json');
-  }
+  }*/
 }
